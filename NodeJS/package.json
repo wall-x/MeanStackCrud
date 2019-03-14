@@ -1,0 +1,28 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "CRUD BoilerPlate Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wall-x/MeanStackCrud.git"
+  },
+  "author": "M.Wall",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wall-x/MeanStackCrud/issues"
+  },
+  "homepage": "https://github.com/wall-x/MeanStackCrud#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.19"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
